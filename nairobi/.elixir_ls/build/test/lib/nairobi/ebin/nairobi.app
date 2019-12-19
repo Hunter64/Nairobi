@@ -14,6 +14,7 @@
                         'Elixir.NairobiWeb.LayoutView',
                         'Elixir.NairobiWeb.PageController',
                         'Elixir.NairobiWeb.PageView',
+                        'Elixir.NairobiWeb.Presence',
                         'Elixir.NairobiWeb.ProductoChannel',
                         'Elixir.NairobiWeb.Router',
                         'Elixir.NairobiWeb.Router.Helpers',
