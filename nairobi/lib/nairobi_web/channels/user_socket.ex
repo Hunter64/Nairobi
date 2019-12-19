@@ -3,6 +3,7 @@ defmodule NairobiWeb.UserSocket do
 
   ## Channels
   # channel "room:*", NairobiWeb.RoomChannel
+  channel("producto", NairobiWeb.ProductoChannel)
 
   # Socket params are passed from the client and can
   # be used to verify and authenticate a user. After
